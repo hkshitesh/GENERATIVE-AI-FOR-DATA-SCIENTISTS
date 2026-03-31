@@ -33,3 +33,7 @@ https://colab.research.google.com/drive/1sDlhcZBte88t85GrDlX4DnxYAyhRIxD5?usp=sh
 ## Lab Exercise 11 - Fine-Tuning a Lightweight Hugging Face LLM for Data Science Tasks
 
 https://colab.research.google.com/drive/1MkQFX_kWFqBHjbtJvpsJSiStT85Mgny4?usp=sharing
+
+## Lab Exercise 10: RAG Part-1
+
+https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
