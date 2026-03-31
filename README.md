@@ -41,3 +41,7 @@ https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sh
 ## Lab Exercise 10 - RAG Implementation for Data Scientists
 
 https://colab.research.google.com/drive/1Vz_5yXRwdOZ_wjmhBDtc4OA21Y1I4-mz?usp=sharing
+
+## Lab Exercise 9 - AI Data Science Agent using Azure OpenAI (GPT-4o) in Colab
+
+https://colab.research.google.com/drive/1Yqsl5mBlPrsqe6ckiWxJxX13RkSEcYRR?usp=sharing
