@@ -37,3 +37,7 @@ https://colab.research.google.com/drive/1MkQFX_kWFqBHjbtJvpsJSiStT85Mgny4?usp=sh
 ## Lab Exercise 10: RAG Part-1
 
 https://colab.research.google.com/drive/1Bl-N77c3la87VObG6-vGRVLDx15L-wnu?usp=sharing
+
+## Lab Exercise 10 - RAG Implementation for Data Scientists
+
+https://colab.research.google.com/drive/1Vz_5yXRwdOZ_wjmhBDtc4OA21Y1I4-mz?usp=sharing
