@@ -25,3 +25,7 @@ https://colab.research.google.com/drive/15vrf7z7Q0d9teaL4W-2I6s24jBZTZjBo?usp=sh
 ## Lab Exercise 6 - Improving Prompts for Bidirectional RNN in Sentiment Analysis
 
 https://colab.research.google.com/drive/1_9iV1uJpQ4pBo__3btsUisBtdGKTMP1h?usp=sharing
+
+## Lab Exercise 7 - Prompting for Visualizations using Seaborn
+
+https://colab.research.google.com/drive/1sDlhcZBte88t85GrDlX4DnxYAyhRIxD5?usp=sharing
