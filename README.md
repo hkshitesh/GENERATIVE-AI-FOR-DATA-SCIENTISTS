@@ -29,3 +29,7 @@ https://colab.research.google.com/drive/1_9iV1uJpQ4pBo__3btsUisBtdGKTMP1h?usp=sh
 ## Lab Exercise 7 - Prompting for Visualizations using Seaborn
 
 https://colab.research.google.com/drive/1sDlhcZBte88t85GrDlX4DnxYAyhRIxD5?usp=sharing
+
+## Lab Exercise 11 - Fine-Tuning a Lightweight Hugging Face LLM for Data Science Tasks
+
+https://colab.research.google.com/drive/1MkQFX_kWFqBHjbtJvpsJSiStT85Mgny4?usp=sharing
