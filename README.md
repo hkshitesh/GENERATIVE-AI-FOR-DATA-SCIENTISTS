@@ -18,6 +18,6 @@ https://colab.research.google.com/drive/1QUyP9KFIn1VLz6RpDZzf4pip8_H1mJUT?usp=sh
 
 https://colab.research.google.com/drive/1_iDWAjpYM-zl-w7q-FcD-sVLRGitv9Qp?usp=sharing
 
-## GitHub Co-pilot Genrate Lab (Jupyter Notebook)
+## Lab Exercise 5: GitHub Co-pilot Generate Lab (Jupyter Notebook)
 
 https://colab.research.google.com/drive/15vrf7z7Q0d9teaL4W-2I6s24jBZTZjBo?usp=sharing
